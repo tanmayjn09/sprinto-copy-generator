@@ -1,0 +1,12 @@
+{
+  "_note": "Auto-populated by sync_competitor_data.py. Run daily or on demand.",
+  "_source": "sprinto-ads-report/output/competitor_copy_with_images.json",
+  "last_updated": null,
+  "patterns": {
+    "common_hooks": [],
+    "common_ctas": [],
+    "offer_types": {},
+    "language_style": {},
+    "formats": {}
+  }
+}
